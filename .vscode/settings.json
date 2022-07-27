@@ -1,0 +1,5 @@
+{
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.parameterHints.enabled": true,
+    "editor.suggest.preview": true
+}
